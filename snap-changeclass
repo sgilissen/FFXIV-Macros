@@ -1,0 +1,4 @@
+# Snap to change class - Note: Snap emote from Mogstation is needed
+/snap motion <wait.1.5>
+/gs change {gearset number}
+/micon {gearset number} gearset
